@@ -18,7 +18,8 @@ I’m a **junior frontend developer**, creative web designer and award-winning p
 ![Wordpress](./images/skills/wordpress-black.svg "Wordpress")&nbsp;&nbsp;
 ![GIT](./images/skills/git-black.svg "GIT")&nbsp;&nbsp;
 ![Webpack](./images/skills/webpack-black.svg "Webpack")&nbsp;&nbsp;
-![GSAP](./images/skills/gsap-black.svg "GSAP")&nbsp;&nbsp;
+![GSAP](./images/skills/gsap-black.svg "GSAP")
+
 ![VS code](./images/skills/vsc-black.svg "VS code")&nbsp;&nbsp;
 ![Figma](./images/skills/figma-black.svg "Figma")&nbsp;&nbsp;
 ![Photoshop](./images/skills/ps-black.svg "Photoshop")&nbsp;&nbsp;
