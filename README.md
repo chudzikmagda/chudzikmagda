@@ -1,6 +1,6 @@
 [![Magda Chudzik](./images/gh-cover.png)](https://frontend.magdachudzik.pl/)
 
-I’m a **junior frontend developer**, creative web designer and award-winning photographer as well as a technical psychican by education. At work, I combine technical skills with artistic vision.
+I’m a **frontend developer**, creative web designer and award-winning photographer as well as a technical psychican by education. At work, I combine technical skills with artistic vision.
 
 ---
 
