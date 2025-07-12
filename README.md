@@ -1,40 +1,23 @@
-[![Magda Chudzik](./images/gh-cover.png)](https://frontend.magdachudzik.pl/)
+[![Magda Chudzik](./images/gh-cover.png)](https://dev.magdachudzik.pl/)
 
-I’m a **frontend developer**, creative web designer and award-winning photographer as well as a technical psychican by education. At work, I combine technical skills with artistic vision.
+I’m a **software engineer** and **graphic designer**, with a **strong technical background as a technical physicist by education.** At work, I seamlessly blend technical expertise with artistic vision, crafting intuitive and visually compelling digital experiences.
 
----
+💡 **What I do:**
 
-### **I implement and design responsive applications using these technologies and software:**
+I implement responsive, scalable, and user-friendly UI, ensuring high performance and accessibility. **My approach combines modern development practices with creative design, delivering impactful solutions.**
 
-![Javascript](./images/skills/JS.min.svg "Javascript")&nbsp;&nbsp;
-![Typescript](./images/skills/typescript.min.svg "Typescript")&nbsp;&nbsp;
-![Angular](./images/skills/angular.min.svg "Angular")&nbsp;&nbsp;
-![React](./images/skills/react.min.svg "React")&nbsp;&nbsp;
-![HTML](./images/skills/HTML.min.svg "HTML")&nbsp;&nbsp;
-![CSS](./images/skills/css.min.svg "CSS")&nbsp;&nbsp;
-![Sass](./images/skills/sass.min.svg "Sass")&nbsp;&nbsp;
-![BEM](./images/skills/bem.min.svg "BEM")&nbsp;&nbsp;
-![Bootstrap](./images/skills/bootstrap.min.svg "Bootstrap")&nbsp;&nbsp;
-![Wordpress](./images/skills/wordpress.min.svg "Wordpress")&nbsp;&nbsp;
-![GIT](./images/skills/git.min.svg "GIT")&nbsp;&nbsp;
-![GitLab](./images/skills/gitlab.min.svg "GitLab")&nbsp;&nbsp;
-![Webpack](./images/skills/webpack.min.svg "Webpack")&nbsp;&nbsp;
-![npm](./images/skills/npm.min.svg "npm")&nbsp;&nbsp;
-![GSAP](./images/skills/gsap.min.svg "GSAP")
-
-![VS code](./images/skills/vsc.min.svg "VS code")&nbsp;&nbsp;
-![XAMPP](./images/skills/xampp.min.svg "XAMPP")&nbsp;&nbsp;
-![Figma](./images/skills/figma.min.svg "Figma")&nbsp;&nbsp;
-![Photoshop](./images/skills/ps.min.svg "Photoshop")&nbsp;&nbsp;
-![Xd](./images/skills/xd.min.svg "Xd")&nbsp;&nbsp;
-![Illustrator](./images/skills/ai.min.svg "Illustrator")&nbsp;&nbsp;
-![Indesign](./images/skills/indesign.min.svg "Indesign")
+🛠 **Technologies & Tools:**
+- **Frontend**: JavaScript, TypeScript, Angular, React, Next,js, Nx, HTML, Sass, CSS, BEM, Bootstrap, WordPress
+- **Backend**: Node.js, Nest.js, Git, GitLab, GitHub
+- **Tests**: Playwright, Cypress, Jasmine, Jest
+- **Design**: Figma, Adobe Photoshop, Adobe Illustrator, Adobe InDesign
+- **Collaboration & Workflow**: Jira, Slack
 
 ---
 
-### **Let's stay in touch:**
+#### **Let's stay in touch:**
 
-🔗 [My portfolio](https://frontend.magdachudzik.pl/)
+🔗 [My portfolio](https://dev.magdachudzik.pl/)
 
 🔗 [Linkedin](https://www.linkedin.com/in/magdalena-chudzik/)
 
@@ -42,7 +25,7 @@ I’m a **frontend developer**, creative web designer and award-winning photogra
 
 ---
 
-### **Check my projects**
+#### **Check my projects**
 
 ![Check my projects](./images/arrow-down.min.svg "Check my projects")&nbsp;&nbsp;
 ![Check my projects](./images/arrow-down.min.svg "Check my projects")&nbsp;&nbsp;
